@@ -1,0 +1,32 @@
+/* add your CSS here */
+.image{
+		width: 490px;
+		padding-left: 20px;
+		margin-left: auto;
+		margin-right: 20px;
+
+		}
+		.boox{
+			border:solid;
+			border-color: #F5F5DC;
+			margin: 200px 400px 100px 400px;
+			box-shadow: 10px 10px 5px 	#DCDCDC;}
+			.sec{
+				border:solid;
+				border-color: #F5F5DC;
+				padding-right:30px;
+				padding-left: 30px; 
+				margin-right: 15px;
+				margin-left: 15px;
+			}
+			#name{
+				font-size: 20px;
+			}
+			#whole{
+				border:thin;
+				border-color:#F5F5DC; 
+			}
+			.booxx{
+				border:hidden;
+
+			}
